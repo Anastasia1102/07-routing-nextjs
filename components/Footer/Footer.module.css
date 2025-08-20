@@ -13,12 +13,12 @@
   gap: 20px;
 }
 
-.footer a {
+.footerLink {
   color: #226ec5;
   font-weight: 600;
   text-decoration: none;
 }
 
-.footer a:hover {
+.footerLink:hover {
   text-decoration: underline;
 }
